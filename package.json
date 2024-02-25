@@ -1,0 +1,26 @@
+{
+  "name": "meta-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codewithzaid/Currency-Converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "md zaid alam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Codewithzaid/Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/Codewithzaid/Currency-Converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
